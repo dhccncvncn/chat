@@ -6,5 +6,9 @@
     {
         "message": "h",
         "user": "Me"
+    },
+    {
+        "message": "hello",
+        "user": "Me"
     }
 ]
